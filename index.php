@@ -1,4 +1,5 @@
 <?php
+
 // wechat项目的入口文件
 // 引入类文件
 require './wechat.class.php';
